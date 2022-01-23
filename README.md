@@ -11,6 +11,8 @@ Certificates
 
 4, Programming Foundation Fundamentals (Extra Credit)
 
-5,
+5, Python Quickstart (Required)
 
-6,
+6, First Week on Github Proof for Completion (Extra Credit)
+
+7,
