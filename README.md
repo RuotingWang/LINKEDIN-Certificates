@@ -17,3 +17,8 @@ Certificates
 
 7, First Week on Github Proof for Completion (Extra Credit)
 
+8, And probably more to come... 
+
+🙏💯🙏 
+
+WORLD 🇨🇦 🇨🇳 🇺🇸 🇬🇧 🇩🇪 🇫🇷 🇪🇸 🇨🇭 🇰🇷 🇯🇵 🇧🇷 🇿🇦 PEACE
