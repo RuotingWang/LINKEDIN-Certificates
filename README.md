@@ -3,21 +3,21 @@ In this repository I have included all of the learning certificates of basic pro
 
 Certificates
 
-1, Github Essentials (Extra Credit)
+1. Github Essentials (Extra Credit)
 
-2, Introducing Jupyter (Required)
+2. Introducing Jupyter (Required)
 
-3, Learning Github (Extra Credit)
+3. Learning Github (Extra Credit)
 
-4, Numpy Essential Traning (Required)
+4. Numpy Essential Traning (Required)
 
-5, Programming Foundation Fundamentals (Extra Credit)
+5. Programming Foundation Fundamentals (Extra Credit)
 
-6, Python Quickstart (Required)
+6. Python Quickstart (Required)
 
-7, First Week on Github Proof for Completion (Extra Credit)
+7. First Week on Github Proof for Completion (Extra Credit)
 
-8, And probably more to come... 
+8. And probably more to come... 
 
 🙏💯🙏 
 
