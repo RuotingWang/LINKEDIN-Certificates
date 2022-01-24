@@ -3,10 +3,10 @@ In this repository I have included all of the learning certificates of basic pro
 
 Certificates
 
-1, Github Essentials (Extra Credit)
-
-2, Introducing Jupyter (Required)
-
+1. Github Essentials (Extra Credit)
+1. Introducing Jupyter (Required)
+3. fg
+4. dff
 3, Learning Github (Extra Credit)
 
 4, Numpy Essential Traning (Required)
